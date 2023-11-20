@@ -31,3 +31,14 @@ This directory contains katas that were solved in Java. These were the solutions
 | Jaden Casing Strings | [Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_7kyu/JadenCase.java) |
 | Reverse Words | [Link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_7kyu/ReverseWords.java) |
 | Two to One | [Link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_7kyu/TwoToOne.java) |
+
+### 8kyu
+
+| Problem Name          | Codewars                                                     | Solution |
+| ------------          | ------------------------------------------------------------ | -------- |
+| Are You Playing Banjo? | [Link](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_8kyu/Banjo.java) |
+| Counting sheep... | [Link](https://www.codewars.com/kata/54edbc7200b811e956000556) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_8kyu/Counter.java) |
+| A Needle in the Haystack | [Link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_8kyu/NeedleHaystack.java) |
+| Remove First and Last Character | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_8kyu/RemoveChars.java) |
+| String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_8kyu/StringRepeat.java) |
+| Convert boolean values to strings 'Yes' or 'No' | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_8kyu/YesOrNo.java) |
