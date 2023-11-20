@@ -1,6 +1,6 @@
 # Codewars with Java
 Profile on Codewars: [Profile](https://www.codewars.com/users/iantato)\
-Contains katas that were solved in Java.
+This directory contains katas that were solved in Java. These were the solutions I came up with while I was learning the Java language.
 
 ## Katas
 ### 5kyu
