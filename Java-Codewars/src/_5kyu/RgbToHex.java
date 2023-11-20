@@ -3,7 +3,8 @@ package _5kyu;
 /*
  * 
  * Challenge: (5kyu) RGB To Hex Conversion
- * Details:
+ * https://www.codewars.com/kata/513e08acc600c94f01000001
+ * Description:
  *  
  *  The rgb function is incomplete. Complete it so that passing in RGB decimal values will result
  *  in a hexadecimal representation being returned. Valid decimal values for RGB are 0-255. Any
