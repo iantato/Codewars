@@ -1,7 +1,5 @@
 # Codewars
-![Lines of code](https://img.shields.io/tokei/lines/github/iantato/Codewars%2Ftree%2Fmain%2FJava-Codewars)
-
-
+![Lines of code](https://img.shields.io/tokei/lines/github/iantato/Codewars)
 
 Profile on Codewars: [Profile](https://www.codewars.com/users/iantato)
 ## About
