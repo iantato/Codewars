@@ -1,5 +1,5 @@
 # Codewars
-[Profile](https://www.codewars.com/users/iantato)\
+Profile on Codewars: [Profile](https://www.codewars.com/users/iantato)\
 Contains katas that were solved in Java.
 
 ## Katas
