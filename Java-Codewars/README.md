@@ -3,6 +3,12 @@ Profile on Codewars: [Profile](https://www.codewars.com/users/iantato)\
 This directory contains katas that were solved in Java. These were the solutions I came up with while I was learning the Java language.
 
 ## Katas
+### 4kyu
+
+| Problem Name          | Codewars                                                     | Solution |
+| ------------          | ------------------------------------------------------------ | -------- |
+| Strip Comments | [Link](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_4kyu/StripComments.java) |
+
 ### 5kyu
 
 | Problem Name          | Codewars                                                     | Solution |
