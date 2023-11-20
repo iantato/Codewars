@@ -7,4 +7,4 @@ Contains katas that were solved in Java.
 
 | Problem Name          | Codewars                                                     | Solution |
 | ------------          | ------------------------------------------------------------ | -------- |
-| Human Readable Time   |[Link](https://www.codewars.com/kata/52685f7382004e774f0001f7)|[Link]     |
+| Human Readable Time   |[Link](https://www.codewars.com/kata/52685f7382004e774f0001f7)|[Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_5kyu/HumanReadableTime.java) |
