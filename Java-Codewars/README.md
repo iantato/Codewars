@@ -41,4 +41,4 @@ This directory contains katas that were solved in Java. These were the solutions
 | A Needle in the Haystack | [Link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_8kyu/NeedleHaystack.java) |
 | Remove First and Last Character | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_8kyu/RemoveChars.java) |
 | String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_8kyu/StringRepeat.java) |
-| Convert boolean values to strings 'Yes' or 'No' | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_8kyu/YesOrNo.java) |
+| Convert boolean values to strings 'Yes' or 'No' | [Link](https://www.codewars.com/kata/53369039d7ab3ac506000467) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_8kyu/YesOrNo.java) |
