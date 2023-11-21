@@ -1,7 +1,5 @@
 package _4kyu;
 
-import java.util.Arrays;
-
 /*
  * 
  * Challenge: (4kyu) Strip Comments
