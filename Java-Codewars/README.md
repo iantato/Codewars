@@ -17,6 +17,7 @@ This directory contains katas that were solved in Java. These were the solutions
 | RGB To Hex Conversion | [Link](https://www.codewars.com/kata/513e08acc600c94f01000001) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_5kyu/RgbToHex.java) |
 | Simple Pig Latin | [Link](https://www.codewars.com/kata/520b9d2ad5c005041100000f) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_5kyu/PigLatin.java) |
 | Greed is Good | [Link](https://www.codewars.com/kata/5270d0d18625160ada0000e4/java) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_5kyu/Greed.java) |
+| Directions Reduction | [Link](https://www.codewars.com/kata/550f22f4d758534c1100025a/train/java) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_5kyu/DirReduction.java) |
 
 ### 6kyu
 
