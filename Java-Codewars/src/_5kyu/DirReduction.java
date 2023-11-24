@@ -59,7 +59,6 @@ package _5kyu;
  *    - if you want to translate, please ask before translating.
  * 
  */
-
 import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.List;
