@@ -8,6 +8,7 @@ This directory contains katas that were solved in Java. These were the solutions
 | Problem Name          | Codewars                                                     | Solution |
 | ------------          | ------------------------------------------------------------ | -------- |
 | Strip Comments | [Link](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_4kyu/StripComments.java) |
+| Human readable duration format | [Link](https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/java) | [Link](https://github.com/iantato/Codewars/blob/main/Java-Codewars/src/_4kyu/TimeFormatter.java) |
 
 ### 5kyu
 
