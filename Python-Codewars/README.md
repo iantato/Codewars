@@ -11,7 +11,7 @@ This directory contains katas that were solved in Python. These were the solutio
 | Your order, please | [Link](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_6kyu/order.py) |
 | Build Tower | [Link](https://www.codewars.com/kata/576757b1df89ecf5bd00073b) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_6kyu/tower_builder.py) |
 | WeIrD StRiNg CaSe | [Link](https://www.codewars.com/kata/52b757663a95b11b3d00062d) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_6kyu/to_weird_case.py) |
-| Custom Christmas Tree | [Link](https://www.codewars.com/kata/5a405ba4e1ce0e1d7800012e) | [Link]() |
+| Custom Christmas Tree | [Link](https://www.codewars.com/kata/5a405ba4e1ce0e1d7800012e) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_6kyu/custom_christmas_tree.py) |
 
 
 ### 5kyu
