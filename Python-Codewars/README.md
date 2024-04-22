@@ -3,6 +3,12 @@ Profile on Codewars: [Profile](https://www.codewars.com/users/iantato)\
 This directory contains katas that were solved in Python. These were the solutions I came up with while I was practicing and learning the Python language.
 
 ## Katas
+### 5kyu
+| Problem Name          | Codewars                                                     | Solution |
+| --------------------- | ------------------------------------------------------------ | -------- |
+| Maximum subarray sum | [Link](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_5kyu/max_sequence.py) |
+| Can you get the loop? | [Link](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863/python) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_5kyu/max_sequence.py) |
+
 ### 6kyu
 | Problem Name          | Codewars                                                     | Solution |
 | --------------------- | ------------------------------------------------------------ | -------- |
@@ -15,9 +21,3 @@ This directory contains katas that were solved in Python. These were the solutio
 | Find the odd int | [Link](https://www.codewars.com/kata/54da5a58ea159efa38000836) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_6kyu/find_it.py) |
 | Convert string to camel case | [Link](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_6kyu/to_camel_case.py) |
 | Sum of Digits/Digital Root | [Link](https://www.codewars.com/kata/541c8630095125aba6000c00) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_6kyu/digital_root.py) |
-
-### 5kyu
-| Problem Name          | Codewars                                                     | Solution |
-| --------------------- | ------------------------------------------------------------ | -------- |
-| Maximum subarray sum | [Link](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_5kyu/max_sequence.py) |
-| Can you get the loop? | [Link](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863/python) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_5kyu/max_sequence.py) |
