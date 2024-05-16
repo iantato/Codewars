@@ -15,6 +15,7 @@ This directory contains katas that were solved in Python. These were the solutio
 | --------------------- | ------------------------------------------------------------ | -------- |
 | Maximum subarray sum | [Link](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_5kyu/max_sequence.py) |
 | Can you get the loop? | [Link](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863/python) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_5kyu/max_sequence.py) |
+| The Hashtag Generator | [Link](https://www.codewars.com/kata/52449b062fb80683ec000024/python) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_5kyu/generate_hashtag.py) |
 
 ### 6kyu
 | Problem Name          | Codewars                                                     | Solution |
