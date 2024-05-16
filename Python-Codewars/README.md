@@ -8,6 +8,7 @@ This directory contains katas that were solved in Python. These were the solutio
 | Problem Name          | Codewars                                                     | Solution |
 | --------------------- | ------------------------------------------------------------ | -------- |
 | Snail | [Link](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/python) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_4kyu/snail.py) |
+| Breadcrumb Generator | [Link](https://www.codewars.com/kata/563fbac924106b8bf7000046/python) | [Link](https://github.com/iantato/Codewars/blob/main/Python-Codewars/src/_4kyu/generate_bc.py) |
 
 ### 5kyu
 | Problem Name          | Codewars                                                     | Solution |
